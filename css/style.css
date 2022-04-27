@@ -12,6 +12,17 @@ body{
 }
 
 .margin{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parceiros{
+    background-color: #EBEECC;
+    color: #717171;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    
 }
